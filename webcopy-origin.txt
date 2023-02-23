@@ -1,0 +1,576 @@
+Uri: https://www.classcentral.com/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/about
+File Name: C:\Downloaded Web Sites\www.classcentral.com\about.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/about/careers
+File Name: C:\Downloaded Web Sites\www.classcentral.com\about\careers.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/about/privacy-policy
+File Name: C:\Downloaded Web Sites\www.classcentral.com\about\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.classcentral.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"700%2B Free Google Certifications"%2C"courseUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Ffree-google-certifications%5C%2F"%2C"imageUrl":"https:%5C%2F%5C%2Fwww.classcentral.com%5C%2Freport%5C%2Fwp-content%5C%2Fuploads%5C%2F2021%5C%2F02%5C%2Fgoogle-certs.png"%2C"providerName":"Class Central"%2C"summary":"700%2B free Google Classes with free certifications on different Google learning platforms. Topics include online business%2C digital marketing%2C Google analytics%2C and Google cloud."%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fclass-central-hz.png"%2C"institutionName":"Class Central"%2C"frequency":3%2C"tableId":"newcoursesbymonthtable"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-2.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"Data Science with SQL and Tableau Certificate"%2C"courseUrl":"https:%5C%2F%5C%2Fecornell.cornell.edu%5C%2Fcertificates%5C%2Fdata-science%5C%2Fdata-science-with-sql-and-tableau%5C%2F%3Futm_source%3DClass%2520Central%26utm_medium%3Ddisplay%26utm_campaign%3Ddatascience_Data%2520Science%2520with%2520SQL%2520and%2520Tableau%2520Class%2520Central%2520Ad"%2C"courseDate":"Flexible"%2C"providerName":"eCornell"%2C"institutionLogo":"%5C%2Flogos%5C%2Finstitutions%5C%2Fec-hz.png"%2C"institutionName":"eCornell"%2C"imageUrl":"https:%5C%2F%5C%2Fd3f1iyfxxz8i1e.cloudfront.net%5C%2Fads%5C%2Fproviders%5C%2Fecornell%5C%2Fdata-science-with-sql-and-tableau-560x315.jpg"%2C"summary":"This certificate program is designed to help you analyze data in a relational database and develop your understanding of the relationship between SQL and data visualizations."%2C"frequency":1%2C"tableId":"newcoursesbymonthtable"}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe-1.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/catalog-iframe?a={"courseName":"How to Organize your your Workflow to Maximize Productivity"%2C"courseUrl":"https:%5C%2F%5C%2Fskillshare.eqcm.net%5C%2FYgX4Gq"%2C"imageUrl":"%5C%2Fads%5C%2Fskillshare-how-to-organize-your-your-workflow-to-maximize-productivity-hz.png"%2C"providerName":"Skillshare"%2C"institutionLogo":"%5C%2Flogos%5C%2Fproviders%5C%2Fskillshare-hz.png"%2C"institutionName":"Skillshare"%2C"summary":"In this second class of my series on improving our personal productivity I want to further explore the systems%2C workflows and organization techniques we can use to maximize our output."%2C"frequency":5%2C"tableId":"newcoursesbymonthtable"%2C"subjects":[]}
+File Name: C:\Downloaded Web Sites\www.classcentral.com\catalog-iframe.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\www.classcentral.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\www.classcentral.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://www.classcentral.com/collection/ivy-league-moocs
+File Name: C:\Downloaded Web Sites\www.classcentral.com\collection\ivy-league-moocs.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/collection/sustainability-online-courses
+File Name: C:\Downloaded Web Sites\www.classcentral.com\collection\sustainability-online-courses.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/collection/top-free-online-courses
+File Name: C:\Downloaded Web Sites\www.classcentral.com\collection\top-free-online-courses.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/collections
+File Name: C:\Downloaded Web Sites\www.classcentral.com\collections.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/contact
+File Name: C:\Downloaded Web Sites\www.classcentral.com\contact.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/course/cplusplus-crypto-i-126046
+File Name: C:\Downloaded Web Sites\www.classcentral.com\course\cplusplus-crypto-i-126046.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/course/developing-applications-with-cloud-functions-on-g-126044
+File Name: C:\Downloaded Web Sites\www.classcentral.com\course\developing-applications-with-cloud-functions-on-g-126044.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/course/python-basics-interacting-with-the-internet-120146
+File Name: C:\Downloaded Web Sites\www.classcentral.com\course\python-basics-interacting-with-the-internet-120146.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\www.classcentral.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.classcentral.com/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\www.classcentral.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-400-italic-cyrillic-ext.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-400-italic-cyrillic-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-400-italic-greek-ext.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-400-italic-greek-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-400-italic-greek.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-400-italic-greek.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-400-italic-latin-ext.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-400-italic-latin-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-400-italic-latin.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-400-italic-latin.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-400-italic-vietnamese.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-400-italic-vietnamese.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-400-regular-cyrillic-ext.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-400-regular-cyrillic-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-400-regular-cyrillic.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-400-regular-cyrillic.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-400-regular-greek-ext.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-400-regular-greek-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-400-regular-greek.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-400-regular-greek.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-400-regular-latin-ext.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-400-regular-latin-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-400-regular-latin.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-400-regular-latin.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-400-regular-vietnamese.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-400-regular-vietnamese.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-600-semibold-cyrillic-ext.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-600-semibold-cyrillic-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-600-semibold-cyrillic.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-600-semibold-cyrillic.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-600-semibold-greek-ext.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-600-semibold-greek-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-600-semibold-greek.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-600-semibold-greek.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-600-semibold-latin-ext.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-600-semibold-latin-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-600-semibold-latin.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-600-semibold-latin.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-600-semibold-vietnamese.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-600-semibold-vietnamese.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-700-bold-cyrillic-ext.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-700-bold-cyrillic-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-700-bold-cyrillic.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-700-bold-cyrillic.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-700-bold-greek-ext.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-700-bold-greek-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-700-bold-greek.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-700-bold-greek.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-700-bold-latin-ext.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-700-bold-latin-ext.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-700-bold-latin.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-700-bold-latin.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/fonts/source-sans-pro-unhinted/source-sans-pro-700-bold-vietnamese.woff2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\fonts\source-sans-pro-unhinted\source-sans-pro-700-bold-vietnamese.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/images/collections/collection-new-mobile.png
+File Name: C:\Downloaded Web Sites\www.classcentral.com\images\collections\collection-new-mobile.png
+Content Type: image/png
+
+Uri: https://www.classcentral.com/images/collections/collection-new.png
+File Name: C:\Downloaded Web Sites\www.classcentral.com\images\collections\collection-new.png
+Content Type: image/png
+
+Uri: https://www.classcentral.com/images/fade-gradient.png
+File Name: C:\Downloaded Web Sites\www.classcentral.com\images\fade-gradient.png
+Content Type: image/png
+
+Uri: https://www.classcentral.com/images/illustrations/homepage-discover-01-large.webp
+File Name: C:\Downloaded Web Sites\www.classcentral.com\images\illustrations\homepage-discover-01-large.webp
+Content Type: image/webp
+
+Uri: https://www.classcentral.com/images/illustrations/homepage-discover-01-med.webp
+File Name: C:\Downloaded Web Sites\www.classcentral.com\images\illustrations\homepage-discover-01-med.webp
+Content Type: image/webp
+
+Uri: https://www.classcentral.com/images/illustrations/homepage-discover-01-small.webp
+File Name: C:\Downloaded Web Sites\www.classcentral.com\images\illustrations\homepage-discover-01-small.webp
+Content Type: image/webp
+
+Uri: https://www.classcentral.com/institution/googlecloud
+File Name: C:\Downloaded Web Sites\www.classcentral.com\institution\googlecloud.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/lists
+File Name: C:\Downloaded Web Sites\www.classcentral.com\lists.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/login
+File Name: C:\Downloaded Web Sites\www.classcentral.com\login.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/new-online-courses/february-2023
+File Name: C:\Downloaded Web Sites\www.classcentral.com\new-online-courses\february-2023.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/new-online-courses/february-2023?page=2
+File Name: C:\Downloaded Web Sites\www.classcentral.com\new-online-courses\february-2023-1.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/opensearch.xml
+File Name: C:\Downloaded Web Sites\www.classcentral.com\opensearch.xml
+Content Type: text/xml
+
+Uri: https://www.classcentral.com/rankings
+File Name: C:\Downloaded Web Sites\www.classcentral.com\rankings.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/100-most-popular-online-courses-2021/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\100-most-popular-online-courses-2021\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/2022-year-in-review/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\2022-year-in-review\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/author/dhawal/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\author\dhawal\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/author/manoel/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\author\manoel\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/author/pat-bowden/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\author\pat-bowden\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/author/ruima/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\author\ruima\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/author/team/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\author\team\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/best-davinci-resolve-courses/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\best-davinci-resolve-courses\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/best-free-online-courses-2021/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\best-free-online-courses-2021\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/best-free-online-courses-2022/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\best-free-online-courses-2022\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/best-free-prolog-courses/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\best-free-prolog-courses\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/best-japanese-courses/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\best-japanese-courses\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/best-ocaml-courses/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\best-ocaml-courses\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/best-resume-writing-courses/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\best-resume-writing-courses\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/category/best-courses/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\category\best-courses\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/chinese-mooc-platforms/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\chinese-mooc-platforms\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/class-central-ddos-attack/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\class-central-ddos-attack\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/coursera-free-online-courses/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\coursera-free-online-courses\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/coursera-top-courses/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\coursera-top-courses\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/cs50-free-certificate/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\cs50-free-certificate\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/domestika-layoffs/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\domestika-layoffs\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/edx-top-courses/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\edx-top-courses\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/feed/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.classcentral.com/report/free-certificates/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\free-certificates\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/free-google-certifications/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\free-google-certifications\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/futurelearn-expands-paywall/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\futurelearn-expands-paywall\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/harvard-cs50-guide/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\harvard-cs50-guide\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/india-online-degrees/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\india-online-degrees\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/linkedin-learning-free-learning-paths/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\linkedin-learning-free-learning-paths\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/list-of-mooc-based-microcredentials/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\list-of-mooc-based-microcredentials\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/mooc-based-masters-degree/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\mooc-based-masters-degree\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/most-popular-august-2021/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\most-popular-august-2021\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/most-popular-courses-2022/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\most-popular-courses-2022\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/most-popular-courses-2023/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\most-popular-courses-2023\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/most-popular-february-2022/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\most-popular-february-2022\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/most-popular-february-2023/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\most-popular-february-2023\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/most-popular-january-2023/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\most-popular-january-2023\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/most-popular-july-2021/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\most-popular-july-2021\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/most-popular-online-courses/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\most-popular-online-courses\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/online-learning-deals/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\online-learning-deals\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/open-university-insiders-perspective/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\open-university-insiders-perspective\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/review-exploratory-data-analysis-matlab/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\review-exploratory-data-analysis-matlab\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/review-science-of-well-being/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\review-science-of-well-being\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/thinkific-layoffs/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\thinkific-layoffs\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/udemy-by-the-numbers/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\udemy-by-the-numbers\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/udemy-layoffs/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\udemy-layoffs\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/udemy-new-ceo/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\udemy-new-ceo\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/udemy-top-courses/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\udemy-top-courses\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/report/wp-content/uploads/2021/04/popular-courses-300x150.jpg
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\wp-content\uploads\2021\04\popular-courses-300x150.jpg
+Content Type: image/jpeg
+
+Uri: https://www.classcentral.com/report/wp-content/uploads/2021/04/popular-courses-768x384.jpg
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\wp-content\uploads\2021\04\popular-courses-768x384.jpg
+Content Type: image/jpeg
+
+Uri: https://www.classcentral.com/report/wp-content/uploads/2021/04/popular-courses.jpg
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\wp-content\uploads\2021\04\popular-courses.jpg
+Content Type: image/jpeg
+
+Uri: https://www.classcentral.com/report/wp-content/uploads/2022/09/cc-logo-navy-150x150.png
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\wp-content\uploads\2022\09\cc-logo-navy-150x150.png
+Content Type: image/png
+
+Uri: https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.classcentral.com%2Freport%2Fmost-popular-february-2023%2F
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.classcentral.com/report/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.classcentral.com%2Freport%2Fmost-popular-february-2023%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.classcentral.com/report/wp-json/wp/v2/posts/84744
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\wp-json\wp\v2\posts\84744
+Content Type: application/json
+
+Uri: https://www.classcentral.com/report/writing-free-online-courses/
+File Name: C:\Downloaded Web Sites\www.classcentral.com\report\writing-free-online-courses\index.htm
+Content Type: text/html
+
+Uri: https://www.classcentral.com/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\www.classcentral.com\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://www.classcentral.com/signup
+File Name: C:\Downloaded Web Sites\www.classcentral.com\signup.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/site.webmanifest
+File Name: C:\Downloaded Web Sites\www.classcentral.com\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://www.classcentral.com/starting-this-month
+File Name: C:\Downloaded Web Sites\www.classcentral.com\starting-this-month.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/ai
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subject\ai.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/algorithms-and-data-structures
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subject\algorithms-and-data-structures.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/blockchain
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subject\blockchain.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/cs
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subject\cs.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/health
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subject\health.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subject/internet-of-things
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subject\internet-of-things.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/subjects
+File Name: C:\Downloaded Web Sites\www.classcentral.com\subjects.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/universities
+File Name: C:\Downloaded Web Sites\www.classcentral.com\universities.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/university/columbia
+File Name: C:\Downloaded Web Sites\www.classcentral.com\university\columbia.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/university/cornell
+File Name: C:\Downloaded Web Sites\www.classcentral.com\university\cornell.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/university/duke
+File Name: C:\Downloaded Web Sites\www.classcentral.com\university\duke.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/university/edinburgh
+File Name: C:\Downloaded Web Sites\www.classcentral.com\university\edinburgh.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/university/gatech
+File Name: C:\Downloaded Web Sites\www.classcentral.com\university\gatech.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/university/harvard
+File Name: C:\Downloaded Web Sites\www.classcentral.com\university\harvard.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/university/iit-kharagpur
+File Name: C:\Downloaded Web Sites\www.classcentral.com\university\iit-kharagpur.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/university/iitm
+File Name: C:\Downloaded Web Sites\www.classcentral.com\university\iitm.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/university/mit
+File Name: C:\Downloaded Web Sites\www.classcentral.com\university\mit.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/university/penn
+File Name: C:\Downloaded Web Sites\www.classcentral.com\university\penn.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/university/purdue
+File Name: C:\Downloaded Web Sites\www.classcentral.com\university\purdue.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/university/rice
+File Name: C:\Downloaded Web Sites\www.classcentral.com\university\rice.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/university/stanford
+File Name: C:\Downloaded Web Sites\www.classcentral.com\university\stanford.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/university/umich
+File Name: C:\Downloaded Web Sites\www.classcentral.com\university\umich.html
+Content Type: text/html
+
+Uri: https://www.classcentral.com/webpack/analytics.2edefc668ab4db842c41.js
+File Name: C:\Downloaded Web Sites\www.classcentral.com\webpack\analytics.2edefc668ab4db842c41.js
+Content Type: application/javascript
+
